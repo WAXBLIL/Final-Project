@@ -1,1 +1,6 @@
 
+introduce:
+In this project, our mission was to identify the "best" neighborhoods in Pittsburgh. The quality and quantity of hospitals in the community should be sufficient to meet the needs of residents.
+
+index:
+As mentioned above, the metrics I chose to use were the number and information of hospitals in the community. I will use the Allegheny County PHosipital dataset provided by WPRDC.
